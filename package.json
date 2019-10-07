@@ -47,9 +47,9 @@
     ]
   },
   "dependencies": {
-    "@sdkgen/dart-generator": "^1.0.12",
-    "@sdkgen/parser": "^1.0.16",
-    "@sdkgen/typescript-generator": "^1.0.22",
+    "@sdkgen/dart-generator": "1.0.12",
+    "@sdkgen/parser": "1.0.16",
+    "@sdkgen/typescript-generator": "1.0.22",
     "command-line-args": "^5.1.1",
     "command-line-usage": "^6.0.2"
   }
